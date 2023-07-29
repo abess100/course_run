@@ -1,0 +1,10 @@
+BUTTON{
+    background-color: brown;
+    color: aliceblue;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
